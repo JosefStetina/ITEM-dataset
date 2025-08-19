@@ -1,0 +1,5 @@
+System;Data Rate (Mbps);Latency (ms);Packet Loss (%);AI Optimization
+Kongsberg (2022);10–200;100–500;5–15;No
+Starlink Maritime (2023);50–350;30–120;<5;Yes
+DARPA Adaptive Routing (2024);100–600;10–150;<3;Yes
+Proposed Hybrid System;50–500;100–300;<5;No (future work)
